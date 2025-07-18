@@ -1,5 +1,5 @@
 # 💫 About Me:
-Informatics Engineering student at Riau University. Mastering algorithms and the basics of programming languages ​​such as Java, JavaScript, PHP, Python, and Dart. I have become interested in the world of robotics and IoT since college,<br><br>Mastering HTML, CSS, and JavaScript, PHP and NodeJS. Exploring back-end and full-stack knowledge with React, NextJS, and Flutter. <br><br>Now, I'm currently deepening my knowledge of image processing, Arduino, Robotics, and IoT. Last but not least, I'm learning Machine Learning at Bangkit Academy : Machine Learning Learning Path.
+Informatics Engineering student at Riau University. Mastering algorithms and the basics of programming languages ​​such as Java, JavaScript, PHP, Python, and Dart. I have become interested in the world of robotics and IoT since college,<br><br>Mastering HTML, CSS, and JavaScript, PHP and NodeJS. Exploring back-end and full-stack knowledge with React, NextJS, and Flutter. <br><br>Now, I'm currently deepening my knowledge of image processing, Arduino, Robotics, and IoT.
 
 
 ## 🌐 Socials:
